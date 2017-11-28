@@ -1,6 +1,8 @@
 # cq-metadata
 SQLite metadata for Capital Query Project.
 
+[![asciicast](https://asciinema.org/a/S708MosEHFWICWNvRjYyf9ATh.png)](https://asciinema.org/a/S708MosEHFWICWNvRjYyf9ATh)
+
 ```shellsession
 $ sqlite3 cq.sqlite
 SQLite version 3.16.0 2016-11-04 19:09:39
